@@ -1,0 +1,29 @@
+.principal{
+    width: 75%;
+    height: 100%;
+    background-color: white;
+    margin: 15px   auto;
+    border: solid 2px black;
+}
+.titulo{
+    text-align: center;
+    margin: 20px 0;
+}
+.oqueexadrez{
+    margin: 10px 25px;
+    font-size: 17px;
+
+}
+.tabuleiro{
+    display: flex;
+    margin: 20px auto;
+    height: 40vh;
+    width: 30vw;
+}
+.tabuleiro-1{
+    margin: 20px 15px;
+}
+.tabuleiro-2{
+    font-size: 18px;
+    margin: 10px 0;
+}
